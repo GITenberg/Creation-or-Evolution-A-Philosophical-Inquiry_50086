@@ -1,4 +1,8 @@
 _repo: Creation-or-Evolution-A-Philosophical-Inquiry_50086
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50086-h/images/cover.jpg
 creator:
   author:
     agent_name: Curtis, George Ticknor
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '40607'
     url: http://www.gutenberg.org/2009/agents/40607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50086#Creation-or-Evolution-A-Philosophical-Inquiry
 gutenberg_issued: '2015-09-30'
 gutenberg_type: Text
 identifiers:
